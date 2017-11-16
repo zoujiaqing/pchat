@@ -1,6 +1,6 @@
 {
 	"logic_server": "http://api.logic.kaixinyizu.com/",
-	"chat_server": "http://chat.kaixinyizu.com",
+	"chat_server": "http://chat.kaixinyizu.com/",
 	"web_server": "http://www.kaixinyizu.com/",
 	"contact_info": "微信：1000000 / 电话：19999999901"
 }
