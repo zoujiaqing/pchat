@@ -1,4 +1,5 @@
 {
+	"config_version": 1,
 	"logic_server": "http://api.logic.kaixinyizu.com/",
 	"chat_server": "http://chat.kaixinyizu.com/",
 	"web_server": "http://www.kaixinyizu.com/",
