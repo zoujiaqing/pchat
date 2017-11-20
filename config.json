@@ -3,5 +3,8 @@
 	"logic_server": "http://api.logic.kaixinyizu.com/",
 	"chat_server": "http://chat.kaixinyizu.com/",
 	"web_server": "http://www.kaixinyizu.com/",
-	"contact_info": "微信：1000000 / 电话：19999999901"
+	"contact_info": "微信：1000000 / 电话：19999999901",
+	"aws_bucketname": "xiangle",
+	"aws_key": "AKIAJU6CVF7BGMPS5Z3Q",
+	"aws_secret": "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"
 }
